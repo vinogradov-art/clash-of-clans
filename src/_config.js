@@ -1,20 +1,16 @@
-export const Process = {
-  dev: true,
-};
-
 export const App = {
-    title: "Template",
+  title: "Clas of Clans"
 }
 
 export const Links = [
   {
     title: "Home",
     alias: "home",
-    url: "/",
+    url: "/"
   },
   {
     title: "About",
     alias: "about",
-    url: "/about",
-  },
-];
+    url: "/about"
+  }
+]
